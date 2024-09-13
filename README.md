@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msdsm2204107030
 - 👀 I’m interested in data science, coding in python, reading tech blogs
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning recent developments in Gen AI
 - 💞️ I’m looking to collaborate on the same ML NLP, Deep Learning Topics
 - 📫 How to reach me email:- msdsm2204107030@iiti.ac.in
 - 😄 Pronouns: Happy Coding :)
